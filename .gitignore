@@ -1,0 +1,7 @@
+*.csv
+*.pdf
+__pycache__/
+.ipynb_checkpoints/
+.env
+mlruns/
+lightning_logs/
